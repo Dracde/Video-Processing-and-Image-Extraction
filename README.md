@@ -59,16 +59,6 @@ python paragraph_extraction.py
 
 Update the input file paths at the top of each script to point to your own video and scanned image.
 
-## Project Structure
-
-```
-.
-├── video_processing.py        # Face blur, brightness, watermark, overlay, end-screen
-├── paragraph_extraction.py    # Histogram projection paragraph splitting
-├── samples/                   # Example input and output files
-└── README.md
-```
-
 ## What I Learned
 
 - Applying face detection and spatial filtering to video frames with OpenCV
@@ -76,12 +66,3 @@ Update the input file paths at the top of each script to point to your own video
 - Using projection profiles to segment document layouts
 - Collaborating on a shared codebase while following consistent coding conventions
 
-## Authors
-
-Group project for CSC2014, Sunway University.
-
-- Decent ([GitHub profile link])
-
-## License
-
-This project was created for educational purposes.
