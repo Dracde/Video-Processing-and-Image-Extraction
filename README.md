@@ -2,8 +2,6 @@
 
 A Python and OpenCV project that combines two digital image processing tasks: editing video with face blurring and visual effects, and extracting paragraphs from scanned document images using histogram projection.
 
-Built as a group assignment for CSC2014 Digital Image Processing at Sunway University.
-
 ## Features
 
 ### Video Processing
